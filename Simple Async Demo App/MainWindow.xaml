@@ -1,0 +1,41 @@
+﻿<Window x:Class="Simple_Async_Demo_App.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Simple_Async_Demo_App"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" Background="{DynamicResource MaterialDesignPaper}" TextElement.Foreground="{DynamicResource MaterialDesignBody}">
+    <Grid Margin="20">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <TextBlock Grid.Row="1" Margin="10 0" FontSize="28" HorizontalAlignment="Center">
+            Simple Async Demp App
+        </TextBlock>
+
+        <Button x:Name="executeSync" Grid.Row="2" Style="{StaticResource MaterialDesignRaisedDarkButton}" Content="Normal Execute" Padding="5" Margin="0 10" Click="executeSync_Click"/>
+
+        <Button x:Name="executeASync" Grid.Row="3" Style="{StaticResource MaterialDesignRaisedDarkButton}" Content="Async Execute" Padding="5" Margin="0 10" Click="executeASync_Click"/>
+
+        <Button x:Name="executeParallelASync" Grid.Row="4" Style="{StaticResource MaterialDesignRaisedDarkButton}" Content="Parallel Async Execute" Padding="5" Margin="0 10" Click="executeParallelASync_Click"/>
+
+        <Button x:Name="cancelOperation" Grid.Row="5" Style="{StaticResource MaterialDesignRaisedDarkButton}" Content="Cancel Operation" Padding="5" Margin="0 10" Click="cancelOperation_Click" />
+
+        <ProgressBar x:Name="dashboardProgress" Grid.Row="6" Style="{StaticResource MaterialDesignLinearProgressBar}" Padding="5" Margin="0 10" Height="25" Background="{DynamicResource MaterialDesignBodyLight}" Foreground="OrangeRed" BorderBrush="GhostWhite"/>
+        
+        <Border Grid.Row="7" BorderBrush="GhostWhite" BorderThickness="1" Margin="0 10">
+            <TextBlock x:Name="resultsWindow"  Margin="10"/>
+        </Border>
+        
+
+    </Grid>
+</Window>

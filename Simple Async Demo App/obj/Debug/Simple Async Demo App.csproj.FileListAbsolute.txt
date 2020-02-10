@@ -1,0 +1,21 @@
+C:\Users\brons\source\repos\Simple Async Demo App\Simple Async Demo App\bin\Debug\Simple Async Demo App.exe.config
+C:\Users\brons\source\repos\Simple Async Demo App\Simple Async Demo App\bin\Debug\Simple Async Demo App.exe
+C:\Users\brons\source\repos\Simple Async Demo App\Simple Async Demo App\bin\Debug\Simple Async Demo App.pdb
+C:\Users\brons\source\repos\Simple Async Demo App\Simple Async Demo App\bin\Debug\MaterialDesignColors.dll
+C:\Users\brons\source\repos\Simple Async Demo App\Simple Async Demo App\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\brons\source\repos\Simple Async Demo App\Simple Async Demo App\bin\Debug\MaterialDesignColors.pdb
+C:\Users\brons\source\repos\Simple Async Demo App\Simple Async Demo App\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\brons\source\repos\Simple Async Demo App\Simple Async Demo App\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\brons\source\repos\Simple Async Demo App\Simple Async Demo App\obj\Debug\MainWindow.g.cs
+C:\Users\brons\source\repos\Simple Async Demo App\Simple Async Demo App\obj\Debug\App.g.cs
+C:\Users\brons\source\repos\Simple Async Demo App\Simple Async Demo App\obj\Debug\Simple Async Demo App_MarkupCompile.cache
+C:\Users\brons\source\repos\Simple Async Demo App\Simple Async Demo App\obj\Debug\Simple Async Demo App_MarkupCompile.lref
+C:\Users\brons\source\repos\Simple Async Demo App\Simple Async Demo App\obj\Debug\App.baml
+C:\Users\brons\source\repos\Simple Async Demo App\Simple Async Demo App\obj\Debug\MainWindow.baml
+C:\Users\brons\source\repos\Simple Async Demo App\Simple Async Demo App\obj\Debug\Simple Async Demo App.g.resources
+C:\Users\brons\source\repos\Simple Async Demo App\Simple Async Demo App\obj\Debug\Simple_Async_Demo_App.Properties.Resources.resources
+C:\Users\brons\source\repos\Simple Async Demo App\Simple Async Demo App\obj\Debug\Simple Async Demo App.csproj.GenerateResource.cache
+C:\Users\brons\source\repos\Simple Async Demo App\Simple Async Demo App\obj\Debug\Simple Async Demo App.csproj.CopyComplete
+C:\Users\brons\source\repos\Simple Async Demo App\Simple Async Demo App\obj\Debug\Simple Async Demo App.exe
+C:\Users\brons\source\repos\Simple Async Demo App\Simple Async Demo App\obj\Debug\Simple Async Demo App.pdb
+C:\Users\brons\source\repos\Simple Async Demo App\Simple Async Demo App\obj\Debug\Simple Async Demo App.csprojAssemblyReference.cache
